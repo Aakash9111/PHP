@@ -1,3 +1,3 @@
 # PHP
-# PHP Progrmas 
+# PHP Programs 
 # String And Array
